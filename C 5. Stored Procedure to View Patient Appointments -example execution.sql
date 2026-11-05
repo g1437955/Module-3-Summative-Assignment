@@ -1,0 +1,1 @@
+CALL GetPatientAppointments('OP001');
